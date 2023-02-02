@@ -1,0 +1,10 @@
+Preda Alexandru 323CB
+Tema a fost implementata folosind pasii descrisi in PDF-ul destinat temei.
+Am folosit un vector de Integeri pentru a retine cele k * n noduri specifice,
+apoi pentru fiecare nod din clica am generat o clauza de unde 2 noduri din clica
+sunt negative si sunt legate prin sau conform relatie.Dupa aceea,pentru fiecare
+nod din clica am luat fiecare nod din graf cu care nu formeaza o muchie si le-am
+afisat.Citirea s-a facut cu ajutorul unui Buffered Reader,cu acesta citind fiecare
+linie din fiecare fisier.
+
+Tema este completa.
